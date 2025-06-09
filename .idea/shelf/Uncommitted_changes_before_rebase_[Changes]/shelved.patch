@@ -1,0 +1,16 @@
+Index: traversals.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/traversals.py b/traversals.py
+new file mode 100644
+--- /dev/null	(date 1749447799371)
++++ b/traversals.py	(date 1749447799371)
+@@ -0,0 +1,5 @@
++class TreeNode:
++    def __init__(self,value):
++          self.left=None
++          self.right = None
++          self.value = value
+\ No newline at end of file
